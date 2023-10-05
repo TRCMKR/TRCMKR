@@ -1,4 +1,6 @@
-### Hi there 👋
+### Мяу 🐈‍⬛🐈
+## IMMiKN <3
+# Ain't no way I'm no winning ICPC
 
 <!--
 **TRCMKR/TRCMKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
