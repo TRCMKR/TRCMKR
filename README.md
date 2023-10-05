@@ -18,14 +18,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TRCMKR&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TRCMKR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=No arabic(" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TRCMKR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=No_arabic(" height="100" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/9oskli91lx5qpqysplfr32fn6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=10&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count={10}&width={300}&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
