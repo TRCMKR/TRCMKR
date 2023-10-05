@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center" style="color: purple;">Ain't no way I'm no winning ICPC</h3>
+<h3 align="center">Ain't no way I'm no winning ICPC</h3>
 
 ###
 
