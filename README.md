@@ -1,17 +1,11 @@
-<h1 align="center">Мяу 🐈‍⬛🐈</h1>
+<h1 align="center">IMMiKN <3</h1>
 
-###
-
-<h2 align="center">IMMiKN <3</h2>
-
-###
-
-<h3 align="center">Ain't no way I'm no winning ICPC</h3>
+<h3 align="center">Ain't no way I won't win ICPC</h3>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TRCMKR.TRCMKR&left_color=black&right_color=black&left_text=cats"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TRCMKR.TRCMKR&left_color=black&right_color=black&left_text=" />
 </div>
 
 ###
@@ -24,24 +18,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/IQebREsGFRXmo/giphy.gif"  />
-</div>
-
-###
-
-<!--
-**TRCMKR/TRCMKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
