@@ -12,7 +12,7 @@ I build scalable, highload and high-performance systems. Event-driven architectu
 
 Now developing: 
 - custom gRPC framework to build microservices
-- collection of packages needed in backend develomplent
+- collection of packages for fast backend development
 - util to generate handlers by .proto
 
 ---
