@@ -12,8 +12,8 @@ I build scalable, highload and high-performance systems. Event-driven architectu
 
 Now developing: 
 - custom gRPC framework to build microservices
-- <a href="https://github.com/trcmkr/ba">collection<a/> of packages for fast backend development
-- <a href="https://github.com/trcmkr/servitor">util<a/> to generate handlers by .proto
+- [collection](https://github.com/trcmkr/ba) of packages for fast backend development
+- [util](https://github.com/trcmkr/servitor) to generate handlers by .proto
 
 ---
 
